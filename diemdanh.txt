@@ -1,7 +1,5 @@
 LE DUY PHUC
-<<<<<<< HEAD
+
 NGUYEN NGOC LINH DAN
-=======
+
 Tran van thanh
->>>>>>> ebb84227e537fc47493723ab7872194393f83e74
-Linh dan
