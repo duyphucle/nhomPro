@@ -1,1 +1,1 @@
-anh ơi xóa cái project này đi a ơi 
+A Fuck ơi remove e ra với <3
